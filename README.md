@@ -1,1 +1,2 @@
-<a href="https://ko-fi.com/dbghelp"><img src="https://i.imgur.com/idykXct.png" width="170" height="37"/></a>
+![dbghelp's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbghelp&show_icons=true&theme=merko)
+
